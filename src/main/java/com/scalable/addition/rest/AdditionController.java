@@ -1,4 +1,4 @@
-package com.scalable.addition.service.rest;
+package com.scalable.addition.rest;
 
 import com.scalable.addition.domain.AdditionRequest;
 import com.scalable.addition.domain.AdditionResponse;
